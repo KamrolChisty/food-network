@@ -1,0 +1,124 @@
+body{
+    font-family: 'Alkatra', cursive;
+    margin: 0%;
+}
+.bg-color{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+.display{
+    width: 50%;
+    margin-left: 3%;
+    
+    font-size: 30px;
+  
+}
+.display p{
+    text-align: justify;
+    font-size:16px;
+}
+.display img{
+    width: 80%;
+    
+}
+.display1{
+    width: 50%;
+    margin-left: 10%;
+}
+.display1 img{
+    width: 50%;
+}
+.text{
+    width: 50%;
+    margin-top: 10%;
+    text-align: justify;
+    margin-right: 2%;
+}
+.top-t-color{
+    color: orange;
+}
+.part{
+    display: flex;
+    
+}
+.part1{
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.part2{
+    margin: 4% 20%;
+    text-align: center;
+}
+.part2 p{
+    text-align: justify;
+    font-size: 12px;
+}
+.s-part2{
+    display: flex;
+    
+   
+}
+.s-part2 img{
+    width: 100%;
+    
+}
+.re-dail{
+    box-shadow: 5px 5px 5px 5px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    border: 5px solid white;
+  border-radius: 12px;
+}
+.anchor{
+    font-size: 16px;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 10px;
+    padding: 1px 4px;
+}
+.follo{
+  
+  display: inline-block;
+  text-align: center;
+   padding: 0px 50px;
+   font-size: 20px;
+   
+    
+}
+.follo p{
+    font-size: 16px;
+}
+.align{
+   margin-left: 14%;
+    
+ 
+}
+.s-part3{
+    margin-top: 80px;
+    box-shadow: 5px 5px 5px 5px gray;
+   margin-left: 5%;
+   margin-right: 5%;
+  
+  border-radius: 12px;
+}
+.font{
+    font-weight: 100;
+    font-size: 16px;
+}
+.footer{
+    text-align: center;
+    background-image: url(images/shapes/download.jpg);
+    
+    margin-top: 80px;
+    color: gray;
+}
+.footer p{
+    color: black;
+    font-size: 12px;
+}
+.footer-color{
+    color: orange;
+}
